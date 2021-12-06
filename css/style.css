@@ -149,6 +149,7 @@
 .formSection{
     width: 100%;
     text-align : center;
+    background-image: url(../img/form.jpg);
 }
 .form{
     display: flex;
@@ -157,13 +158,13 @@
     width: 100%;
     padding: 1.2rem 1.4rem;
     /* border-radius: 5rem; */
-    border: 0.2rem solid #29d9d5;
+    /* border: 0.2rem solid #29d9d5; */
     color: #aaa;
     text-transform: none;
     background: none;
     /* margin-top: 10rem; */
     background: transparent;
-    background-image: url(../img/form.jpg);
+    
 }
 .name{
     display:flex;
