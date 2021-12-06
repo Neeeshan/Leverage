@@ -161,7 +161,7 @@
     color: #aaa;
     text-transform: none;
     background: none;
-    margin-top: 10rem;
+    /* margin-top: 10rem; */
     background: transparent;
     background-image: url(../img/form.jpg);
 }
